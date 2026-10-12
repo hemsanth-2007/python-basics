@@ -1,25 +1,36 @@
-Python Basics
+Python Basics 
 
 Welcome to my Python programming repository!
 
-This repository contains Python programs that demonstrate fundamental programming concepts and practical coding exercises.
+This repository contains Python programs and practical exercises developed to strengthen my programming fundamentals.
 
-Programs
+ Projects :
 
 1. Student Details Program
 
+File: "student_details.py"
+
 - Accepts student name, age, and department.
 - Displays the entered student details.
-- Demonstrates Python input, output, and variables.
+- Concepts: Variables, input, and output.
 
-Technologies Used
+2. Student Expense Calculator
+
+File: "student_expense_calculator.py"
+
+- Accepts a monthly budget and expense details.
+- Calculates total expenses and remaining balance.
+- Warns when expenses exceed the budget.
+- Concepts: Variables, user input, arithmetic operations, and conditional statements.
+
+Technologies Used :
 
 - Python 3
 
-Purpose
+Objective :
 
-To strengthen my programming fundamentals and develop practical coding skills for software development.
+To improve my Python programming skills through practical projects and prepare for software development opportunities.
 
-Author
+ Author :
 
-Hemsanth K S.
+Hemsanth K S
