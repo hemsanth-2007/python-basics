@@ -1,0 +1,24 @@
+
+print("===== STUDENT EXPENSE CALCULATOR =====")
+
+name = input("Enter your name: ")
+budget = float(input("Enter your monthly budget (Rs.): "))
+
+food = float(input("Enter food expenses: "))
+travel = float(input("Enter travel expenses: "))
+study = float(input("Enter study expenses: "))
+other = float(input("Enter other expenses: "))
+
+total = food + travel + study + other
+remaining = budget - total
+
+print("\n===== EXPENSE REPORT =====")
+print("Student:", name)
+print("Monthly Budget: Rs.", budget)
+print("Total Expenses: Rs.", total)
+print("Remaining Balance: Rs.", remaining)
+
+if remaining < 0:
+    print("Warning: You exceeded your budget!")
+else:
+    print("You are within your budget.")
