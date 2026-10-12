@@ -23,9 +23,9 @@ File: "student_expense_calculator.py"
 - Warns when expenses exceed the budget.
 - Concepts: Variables, user input, arithmetic operations, and conditional statements.
 
-Technologies Used :
+Tools & Technologies
 
-- Python 3
+- Python
 
 Objective :
 
